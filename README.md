@@ -7,8 +7,9 @@ Overview
 A website that showcase all of my recent project.
 
 Features
-- Screenshot from recent project
-- show the processes
+- Navbar
+- Carousel
+- Footer 
 
 Technologies Used
 - HTML, CSS, JS
